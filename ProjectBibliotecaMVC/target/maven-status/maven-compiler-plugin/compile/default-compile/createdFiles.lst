@@ -1,0 +1,4 @@
+com\leo\projectbibliotecamvc\util\ConnectionFactory.class
+com\leo\projectbibliotecamvc\model\Livro.class
+com\leo\projectbibliotecamvc\controller\LivroController.class
+com\leo\projectbibliotecamvc\dao\LivroDAO.class
